@@ -1,0 +1,7 @@
+import client_data
+import time
+import pronouces
+
+div get_client_gender{
+    get_name = input(print ("What is ur gender? 1.Male "/n "2. Female" /n "3. non-Binary " /n "4. I can be whatever i want "))
+}
